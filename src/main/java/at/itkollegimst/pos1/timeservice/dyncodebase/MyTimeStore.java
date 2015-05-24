@@ -1,7 +1,8 @@
 /* MyTimeStore.java */
 
-package at.itkollegimst.pos1.timeserviceclient;
+package at.itkollegimst.pos1.timeservice.dyncodebase;
 
+import at.itkollegimst.pos1.timeservice.interfaces.TimeStore;
 import java.io.Serializable;
 
 

@@ -1,6 +1,6 @@
 /* TimeService.java */
 
-package at.itkollegimst.pos1.timeserviceclient;
+package at.itkollegimst.pos1.timeservice.interfaces;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

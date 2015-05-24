@@ -19,7 +19,7 @@
           <configuration>
               <archive>
                   <manifest>
-                      <mainClass>at.itkollegimst.pos1.timeserviceclient.TimeServiceClient</mainClass>
+                      <mainClass>at.itkollegimst.pos1.timeservice.client.TimeServiceClient</mainClass>
                   </manifest>
               </archive>
           </configuration>

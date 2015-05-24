@@ -1,7 +1,10 @@
 /* TimeServiceClient.java */
 
-package at.itkollegimst.pos1.timeserviceclient;
+package at.itkollegimst.pos1.timeservice.client;
 
+import at.itkollegimst.pos1.timeservice.interfaces.TimeStore;
+import at.itkollegimst.pos1.timeservice.interfaces.TimeService;
+import at.itkollegimst.pos1.timeservice.dyncodebase.MyTimeStore;
 import java.net.MalformedURLException;
 import java.rmi.Naming;
 import java.rmi.NotBoundException;
